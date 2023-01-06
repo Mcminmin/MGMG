@@ -1,2 +1,0 @@
-# MGMG
-json
